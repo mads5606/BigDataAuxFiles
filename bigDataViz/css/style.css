@@ -1,0 +1,24 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+  	background-image: url('../img/backgroundTwitter.jpg');
+  	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment:fixed;
+}
+
+#cover {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+#cover-caption {
+    width: 100%;
+    position: relative;
+    z-index: 1;
+}
+
+.toHide {
+	margin-left: 25%;
+}
